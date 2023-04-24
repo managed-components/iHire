@@ -1,6 +1,6 @@
 {
   "name": "@managed-components/ihire",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A Managed Component for iHire",
   "main": "dist/index.js",
   "scripts": {
